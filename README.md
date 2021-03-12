@@ -2,6 +2,8 @@
 
 This is the official repository accompanying the EMNLP 2020 long paper [Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://arxiv.org/abs/2010.05700). This repository contains the accompanying dataset and codebase.
 
+## Code overview
+A basic documentation of each file and directory can be found [`CodeOverview.md`](CodeOverview.md)
 
 ## Demos
 
