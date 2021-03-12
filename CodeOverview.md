@@ -1,5 +1,5 @@
 ## A basic overview of the structure of the code - 
-
+```
 *
     Directory 1 - 
     📦data_samples
@@ -126,3 +126,4 @@
     ┣ 📜style_dataset.py
     ┗ 📜utils.py 
 
+```
